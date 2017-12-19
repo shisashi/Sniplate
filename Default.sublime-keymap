@@ -1,0 +1,4 @@
+[
+	{"keys": ["super+shift+s"], "command": "sniplate"},
+	{"keys": ["super+shift+e"], "command": "sniplate_edit"},
+]

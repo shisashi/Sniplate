@@ -1,0 +1,4 @@
+[
+    {"caption": "List Sniplates.", "command": "sniplate"},
+    {"caption": "Edit Sniplates.", "command": "sniplate_edit"},
+]
